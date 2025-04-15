@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+
+# Virtual environments
+.venv
+
+.coverage
+.pytest_cache
+.ruff_cache
+.scannerwork
+.vscode
+assets
+docs/build
+docs/diagramme/out
+htmlcov
+log
+site
+src/patient/**/__pycache__
+src/patient/patient.egg-info
+src/patient/config/resources/sqlite/patient.sqlite
+report.html
+*.xlsx
+.extras/dependency-check-report.html
